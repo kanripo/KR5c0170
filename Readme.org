@@ -1,16 +1,3 @@
-#+TITLE: 猶龍傳 / CK-KZ
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 00:53:31.040945
-* 版本
- |     CK-KZ|【重刊道藏輯要】|
- |       HFL|【正統道藏・涵芬樓版】|
- |      YP-C|【原版道藏輯要】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5c0170_000.txt][猶龍傳 0]]
- - [[file:KR5c0170_001.txt][猶龍傳 1]]
- - [[file:KR5c0170_002.txt][猶龍傳 2]]
- - [[file:KR5c0170_003.txt][猶龍傳 3]]
- - [[file:KR5c0170_004.txt][猶龍傳 4]]
- - [[file:KR5c0170_005.txt][猶龍傳 5]]
- - [[file:KR5c0170_006.txt][猶龍傳 6]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
